@@ -1,0 +1,16 @@
+.notification-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notification-text {
+  padding-top: 10px;
+}
+
+.close {
+  margin-top: -8px;
+}
+
+.btn {
+  color: red !important;
+}
